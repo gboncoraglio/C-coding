@@ -1,3 +1,3 @@
 Course on how to properly use Pointers with C
 
-![Alt text](certifcate.jpg?raw=true "Title")
+![Alt text](certificate.jpg?raw=true "Title")
