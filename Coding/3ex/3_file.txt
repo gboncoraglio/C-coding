@@ -1,0 +1,24 @@
+F0001
+banane
+pippoc
+frutta
+0.50
+130
+F0002
+datteri
+pippoc
+frutta
+2.99
+35
+S0001
+formaggio emmenthaler
+formaggi & saluni s.n.c
+salumi
+7.47
+143
+F0003
+mele
+il contadino sotto casa
+frutta
+1.99
+135

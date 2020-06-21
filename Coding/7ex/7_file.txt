@@ -1,0 +1,6 @@
+andrea_rossi    10:30   CT
+mario_verdi     11:25   PA
+giuseppe_bianchi    15:40   ME
+carlo_russo     13:10   MI
+sonia_bianchi   18:25   ME
+carla_verdi     12:40   PA

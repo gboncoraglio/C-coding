@@ -1,0 +1,9 @@
+pippo	paperino	65
+pippo	topolino	30
+paperino	paperoga	70
+gastone	paperino	120
+gastone minnie	55
+pippo	paperino	30
+qui	quo	75
+qui qua 45
+quo qui 100
